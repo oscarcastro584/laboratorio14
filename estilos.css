@@ -37,3 +37,26 @@ nav ul li a{
 nav ul li a:hover{
     background-color: #555;
 }
+#home{
+    height: 100vh;
+    background-color: #f4faf4;
+}
+#about{
+    height: 100vh;
+    background-color: #f4faf4;
+}
+#service{
+    height: 100vh;
+    background-color: #f4faf4;
+}
+#contact{
+    height: 100vh;
+    background-color: #f4f4f4;
+}
+section{
+    padding: 2em 0;
+}
+main{
+    margin-top: 4em;
+    padding: 2em;
+}
